@@ -1,4 +1,5 @@
 #notice the use of print ('''   '''), upper(), lower()
+#see the flow chart for this exercise
 
 
 print('''

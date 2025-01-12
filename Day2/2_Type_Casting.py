@@ -1,3 +1,7 @@
+#In this exercise we covered-
+# checking data type using type() method
+# type casting, e.g. int("12")
+
 #Type Checking
 print(type(123_456))
 print(type(123))

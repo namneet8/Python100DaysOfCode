@@ -1,3 +1,13 @@
+# Write a Program for a pizza store, where the pricings are as follows-
+# Small pizza (S): $15
+# Medium pizza (M): $20
+# Large pizza (L): $25
+# Add pepperoni for small pizza (Y or N): +$2
+# Add pepperoni for medium or large pizza (Y or N): +$3
+# Add extra cheese for any size pizza (Y or N): +$1
+# Print the total billing price
+
+
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M or L: ")
 pepperoni = input("Do you want pepperoni on your pizza? Y or N: ")

@@ -1,3 +1,11 @@
+'''Following is covered in this exercise:
+print(), 
+print (\''' __
+______________ \'''),
+print ("" 
+"")'''
+
+
 # In python print() is used to for printing
 print("Hello World!!")
 print()

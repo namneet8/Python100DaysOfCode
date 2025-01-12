@@ -1,3 +1,5 @@
+#In this exercise we covered various data types- int, str, bool, float and subscripting a string using +ve and -ve indices
+
 #data types
 print("I am a String") #String (str)
 print(1) #Integer (int)

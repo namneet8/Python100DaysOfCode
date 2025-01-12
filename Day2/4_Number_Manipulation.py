@@ -1,3 +1,5 @@
+#In this exercise we covered flooring a float using int(); round(); f-strings
+
 #Flooring a number
 print(int(3.72345))
 

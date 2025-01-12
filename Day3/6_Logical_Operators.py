@@ -2,6 +2,14 @@
 # C or D 
 # not E 
 
+# Write a program where an individual is only allowed to take a ride if their height is not less than 120cm.
+# The ticket pricing is as follows-
+# kids(12 or under)- $5
+# teens(13-18)- $7
+# adults- $12
+# But, for people in age group 45- 55, the ride is free.
+# Also, they have option to buy photos and there is additional $3 for the photos.
+# Print the final bill for the user.
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 bill = 0
