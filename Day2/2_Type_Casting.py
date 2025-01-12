@@ -10,3 +10,10 @@ print()
 # Make this line of code run without errors
 # print("Number of letters in your name: " + len(input("Enter your name")))
 print("Number of letters in your name: " + str(len(input("Enter your name\n"))))
+print()
+
+# int("abc") will give error because "abc" us invalid literal for int()
+
+#print (1 + "2") gives error
+print("1" + "2") #this is example of string concatenation
+print(int("1") + int("2")) #this is example of adding two integers
